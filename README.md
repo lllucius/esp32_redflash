@@ -83,7 +83,7 @@ typedef struct
 ```
 
 You will also need to use the Reliance Edge Configuration Tool found
-here (Datalight Extras)[https://www.datalight.com/resources/extras] to
+here [Datalight Extras](https://www.datalight.com/resources/extras) to
 create the "redconf.c" and "redconf.h" files found in the root of this
 repo.
 

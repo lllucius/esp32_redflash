@@ -1,0 +1,6 @@
+[submodule "components/extflash"]
+	path = components/extflash
+	url = https://github.com/lllucius/esp32_extflash
+[submodule "components/redflash/reliance-edge"]
+	path = components/redflash/reliance-edge
+	url = https://github.com/datalightinc/reliance-edge.git
